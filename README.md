@@ -1,30 +1,23 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=232526&height=250&section=header&text=MEJSZU&fontSize=70&fontColor=ffffff&animation=fadeIn&desc=Minecraft%20Plugin%20Developer%20%E2%9A%94%EF%B8%8F%20Game%20Systems%20Creator&descAlignY=65"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0F52BA&height=240&section=header&text=MEJSZU&fontSize=70&fontColor=ffffff&animation=fadeIn&desc=Minecraft%20Plugin%20Developer&descAlignY=65"/>
 </p>
 
 <h2 align="center">
-🎮 Minecraft Developer • System Creator • Plugin Specialist 🎮
+⛏️ Minecraft Plugin Developer
 </h2>
 
 ---
 
-## ⚡ About Me
+## 👋 O mnie
 
-Jestem developerem zajmującym się tworzeniem **systemów do gier oraz serwerów Minecraft**.
+Robię pluginy do Minecrafta oraz różne systemy pod serwery.
+Głównie zajmuję się mechanikami gry, komendami, GUI oraz rzeczami które realnie ulepszają gameplay.
 
-Specjalizuję się w:
-
-✅ Pluginach Minecraft
-✅ Mechanikach gry
-✅ Systemach serwerowych
-✅ Botach Discord
-✅ Customowych rozwiązaniach pod serwery
-
-Moim celem jest tworzenie **wydajnych, stabilnych i unikalnych systemów gameplayowych**.
+Piszę rzeczy tak, żeby działały stabilnie i nie zabijały wydajności serwera.
 
 ---
 
-## 🧠 Languages
+## 💻 Języki których używam
 
 <p align="center">
 
@@ -41,59 +34,42 @@ Java • JavaScript • Python • Lua
 
 ---
 
-## 🧩 What I Create
+## ⚒️ Co robię
 
-🎮 Minecraft Plugins
-⚔️ Custom Game Systems
-🧠 Server Mechanics
-📦 GUI & Command Systems
-🤖 Discord Bots
-⚡ Optimized Server Solutions
-
----
-
-## ⛏ Minecraft Development
-
-<p align="center">
-
-✔ Spigot
-✔ PaperMC
-✔ Velocity
-✔ BungeeCord
-✔ Custom Core Systems
-✔ Economy & Lobby Systems
-✔ Minigame Mechanics
-
-</p>
+✔ Pluginy Minecraft
+✔ Systemy serwerowe
+✔ GUI i komendy
+✔ Mechaniki gry
+✔ Boty Discord
+✔ Różne rozwiązania pod serwery
 
 ---
 
-## 📊 GitHub Activity
+## 🎮 Minecraft
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=KlakierOnTop&show_icons=true&theme=tokyonight&hide_border=true"/>
-</p>
+Pracuję głównie z:
 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=KlakierOnTop&theme=tokyonight&hide_border=true"/>
-</p>
+* Spigot
+* Paper
+* Velocity
+* BungeeCord
 
 ---
 
-## 📬 Contact
+## 📬 Kontakt
 
 <p align="center">
-<a href="https://discord.com/users/1344364574803099748">
-<img src="https://img.shields.io/badge/Discord-Contact%20Me-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+<a href="https://dsc.gg/dragoncode">
+<img src="https://img.shields.io/badge/Discord-Dołącz-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
 </a>
 </p>
 
 ---
 
 <p align="center">
-🔥 Game Systems • Minecraft Plugins • Custom Development 🔥
+💙 Minecraft Development
 </p>
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=232526&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0F52BA&height=120&section=footer"/>
 </p>
