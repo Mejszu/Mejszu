@@ -1,4 +1,8 @@
 <p align="center">
+<img src="https://komarev.com/ghpvc/?username=KlakierOnTop&label=Odwiedziny%20profilu&color=0F52BA&style=for-the-badge"/>
+</p>
+
+<p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0F52BA&height=240&section=header&text=MEJSZU&fontSize=70&fontColor=ffffff&animation=fadeIn&desc=Minecraft%20Plugin%20Developer&descAlignY=65"/>
 </p>
 
@@ -10,22 +14,37 @@
 
 ## 👋 O mnie
 
-Robię pluginy do Minecrafta oraz różne systemy pod serwery.
-Głównie zajmuję się mechanikami gry, komendami, GUI oraz rzeczami które realnie ulepszają gameplay.
+Zajmuję się tworzeniem pluginów oraz systemów pod serwery Minecraft.
+Skupiam się głównie na mechanikach gry, GUI, komendach i rozwiązaniach,
+które faktycznie poprawiają działanie serwera.
 
-Piszę rzeczy tak, żeby działały stabilnie i nie zabijały wydajności serwera.
+Najważniejsze dla mnie:
+
+* stabilność
+* wydajność
+* dobrze uporządkowany kod
 
 ---
 
-## 💻 Języki których używam
+## ⚙️ Specjalizacja
+
+✔ Java Plugin Development
+✔ Maven (organizacja dużych projektów)
+✔ Systemy serwerowe Minecraft
+✔ Integracje z bazami danych
+✔ Boty Discord wspierające serwery
+
+Pracuję głównie w środowisku pluginów **Spigot / Paper / Velocity**.
+
+---
+
+## 💻 Języki
 
 <p align="center">
-
 <img src="https://skillicons.dev/icons?i=java" height="85"/>
 <img src="https://skillicons.dev/icons?i=javascript" height="85"/>
 <img src="https://skillicons.dev/icons?i=python" height="85"/>
 <img src="https://skillicons.dev/icons?i=lua" height="85"/>
-
 </p>
 
 <p align="center">
@@ -34,25 +53,31 @@ Java • JavaScript • Python • Lua
 
 ---
 
-## ⚒️ Co robię
+## 🧩 Przykładowe projekty
 
-✔ Pluginy Minecraft
-✔ Systemy serwerowe
-✔ GUI i komendy
-✔ Mechaniki gry
-✔ Boty Discord
-✔ Różne rozwiązania pod serwery
+<p align="center">
 
----
+<a href="https://imgur.com/a/Ayxrjlx">
+<img src="https://img.shields.io/badge/Zobacz-Projekt%201-0F52BA?style=for-the-badge"/>
+</a>
 
-## 🎮 Minecraft
+<a href="https://imgur.com/a/mBYxvxN">
+<img src="https://img.shields.io/badge/Zobacz-Projekt%202-0F52BA?style=for-the-badge"/>
+</a>
 
-Pracuję głównie z:
+<a href="https://imgur.com/a/FGRVZKw">
+<img src="https://img.shields.io/badge/Zobacz-Projekt%203-0F52BA?style=for-the-badge"/>
+</a>
 
-* Spigot
-* Paper
-* Velocity
-* BungeeCord
+<a href="https://imgur.com/a/9DZYnmI">
+<img src="https://img.shields.io/badge/Zobacz-Projekt%204-0F52BA?style=for-the-badge"/>
+</a>
+
+</p>
+
+<p align="center">
+Kliknięcie otwiera galerie z przykładami wykonanych systemów i pluginów.
+</p>
 
 ---
 
@@ -60,14 +85,14 @@ Pracuję głównie z:
 
 <p align="center">
 <a href="https://dsc.gg/dragoncode">
-<img src="https://img.shields.io/badge/Discord-Dołącz-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+<img src="https://img.shields.io/badge/Discord-dragoncode-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
 </a>
 </p>
 
 ---
 
 <p align="center">
-💙 Minecraft Development
+💙 Minecraft Plugin Development
 </p>
 
 <p align="center">
