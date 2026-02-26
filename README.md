@@ -30,8 +30,8 @@ Najważniejsze dla mnie:
 
 ✔ Java Plugin Development
 ✔ Maven (organizacja dużych projektów)
-✔ Systemy serwerowe Minecraft
-✔ Integracje z bazami danych
+✔ Konfiguracja pluginow
+✔ Integracje z bazami danych (MySQL)
 ✔ Boty Discord wspierające serwery
 
 Pracuję głównie w środowisku pluginów **Spigot / Paper / Velocity**.
