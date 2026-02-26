@@ -1,34 +1,30 @@
-<!-- MASTER HEADER -->
-
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=141E30&height=250&section=header&text=KLAKIER%20ON%20TOP&fontSize=60&fontColor=ffffff&animation=fadeIn&desc=Minecraft%20Plugin%20Developer%20%E2%9A%94%EF%B8%8F%20Backend%20Developer&descAlignY=65"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=232526&height=250&section=header&text=MEJSZU&fontSize=70&fontColor=ffffff&animation=fadeIn&desc=Minecraft%20Plugin%20Developer%20%E2%9A%94%EF%B8%8F%20Game%20Systems%20Creator&descAlignY=65"/>
 </p>
 
 <h2 align="center">
-👑 MASTER DEVELOPER 👑
+🎮 Minecraft Developer • System Creator • Plugin Specialist 🎮
 </h2>
 
-<p align="center">
-Java • JavaScript • Python • Lua
-</p>
+---
+
+## ⚡ About Me
+
+Jestem developerem zajmującym się tworzeniem **systemów do gier oraz serwerów Minecraft**.
+
+Specjalizuję się w:
+
+✅ Pluginach Minecraft
+✅ Mechanikach gry
+✅ Systemach serwerowych
+✅ Botach Discord
+✅ Customowych rozwiązaniach pod serwery
+
+Moim celem jest tworzenie **wydajnych, stabilnych i unikalnych systemów gameplayowych**.
 
 ---
 
-## ⚔️ About Me
-
-Jestem developerem specjalizującym się w tworzeniu:
-
-✅ Zaawansowanych **pluginów Minecraft**
-✅ Systemów serwerowych
-✅ Botów Discord
-✅ Backendów oraz automatyzacji
-✅ Systemów gier
-
-Tworzę zoptymalizowane oraz skalowalne rozwiązania pod serwery Minecraft.
-
----
-
-## 🧠 Languages I Use
+## 🧠 Languages
 
 <p align="center">
 
@@ -39,36 +35,40 @@ Tworzę zoptymalizowane oraz skalowalne rozwiązania pod serwery Minecraft.
 
 </p>
 
+<p align="center">
+Java • JavaScript • Python • Lua
+</p>
+
 ---
 
-## 🎮 Minecraft Development
+## 🧩 What I Create
+
+🎮 Minecraft Plugins
+⚔️ Custom Game Systems
+🧠 Server Mechanics
+📦 GUI & Command Systems
+🤖 Discord Bots
+⚡ Optimized Server Solutions
+
+---
+
+## ⛏ Minecraft Development
 
 <p align="center">
 
-⚡ Spigot Plugins
-⚡ PaperMC Plugins
-⚡ Velocity / Bungee Systems
-⚡ Custom Server Core
-⚡ Economy Systems
-⚡ Lobby & Minigame Systems
-⚡ Database Integrations
+✔ Spigot
+✔ PaperMC
+✔ Velocity
+✔ BungeeCord
+✔ Custom Core Systems
+✔ Economy & Lobby Systems
+✔ Minigame Mechanics
 
 </p>
 
 ---
 
-## 🚀 What I Can Build
-
-🔥 Minecraft Plugins
-🔥 Discord Bots
-🔥 Server Systems
-🔥 Game Mechanics
-🔥 Custom Commands & GUIs
-🔥 API Integrations
-
----
-
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=KlakierOnTop&show_icons=true&theme=tokyonight&hide_border=true"/>
@@ -91,9 +91,9 @@ Tworzę zoptymalizowane oraz skalowalne rozwiązania pod serwery Minecraft.
 ---
 
 <p align="center">
-⭐ Minecraft Plugin Specialist ⭐
+🔥 Game Systems • Minecraft Plugins • Custom Development 🔥
 </p>
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=141E30&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=232526&height=120&section=footer"/>
 </p>
