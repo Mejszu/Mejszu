@@ -32,7 +32,7 @@ Najważniejsze dla mnie:
 ✔ Maven (organizacja dużych projektów)
 ✔ Konfiguracja pluginow
 ✔ Integracje z bazami danych (MySQL)
-✔ Boty Discord wspierające serwery
+✔ Zaawansowane boty discord
 
 Pracuję głównie w środowisku pluginów **Spigot / Paper / Velocity**.
 
